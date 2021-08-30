@@ -21,11 +21,11 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "DEAD",
-    "SPARSE",
-    "DRY",
+    "RARE",
     "ATUM",
     "HOT",
-    "RARE",
+    "DRY",
+    "SPARSE",
     "SANDY"
   ],
   "BiomeManager Entries": {},
