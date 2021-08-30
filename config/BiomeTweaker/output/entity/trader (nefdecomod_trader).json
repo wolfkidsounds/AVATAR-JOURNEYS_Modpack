@@ -1,0 +1,6 @@
+
+{
+  "Name": "trader",
+  "Registry ID": "nefdecomod:trader",
+  "Class": "nefdecomod.entity.EntityTrader.EntityCustom"
+}
