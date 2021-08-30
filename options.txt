@@ -51,7 +51,7 @@ realmsNotifications:true
 enableWeakAttacks:false
 autoJump:false
 narrator:0
-tutorialStep:find_tree
+tutorialStep:none
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -107,6 +107,7 @@ key_Scene2 start/pause:80
 key_Scene3 start/pause:81
 key_Scene reset:82
 key_Quest Log:38
+key_key.wearablebackpacks.open:48
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -153,7 +154,13 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.dragon_fireAttack:19
+key_key.dragon_strike:34
+key_key.dragon_down:45
+key_key.dragon_change_view:65
 key_invtweaks.key.sort:19
+key_Mo' Bends Menu:34
+key_Refresh Animations:68
 soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0
