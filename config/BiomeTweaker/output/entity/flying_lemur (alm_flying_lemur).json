@@ -1,0 +1,6 @@
+
+{
+  "Name": "flying_lemur",
+  "Registry ID": "alm:flying_lemur",
+  "Class": "com.marejan.avatarlemurmod.entity.lemur.EntityFlyingLemur"
+}

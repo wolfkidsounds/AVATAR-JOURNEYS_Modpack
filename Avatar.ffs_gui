@@ -6,7 +6,15 @@
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>TwoWay</Variant>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>left</LeftOnly>
+            <RightOnly>left</RightOnly>
+            <LeftNewer>left</LeftNewer>
+            <RightNewer>left</RightNewer>
+            <Different>right</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
         <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
@@ -20,6 +28,19 @@
             <Item>\$Recycle.Bin\</Item>
             <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*.curseclient</Item>
+            <Item>*\.gitattributes</Item>
+            <Item>*\.git\</Item>
+            <Item>*.ffs_gui | *.log</Item>
+            <Item>*\minecraftinstance.json</Item>
+            <Item>*\usercache.json</Item>
+            <Item>*\usernamecache.json</Item>
+            <Item>*\.mixin.out\</Item>
+            <Item>*\logs\</Item>
+            <Item>*\memory_repo\</Item>
+            <Item>*\saves\</Item>
+            <Item>*\README.md</Item>
+            <Item>*\wiki\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
