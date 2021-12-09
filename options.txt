@@ -103,6 +103,13 @@ key_MoCreatures Dive:44
 key_MoCreatures GUI:100
 key_key.fart.desc:34
 key_key.toastcontrol.clear:36
+key_key.xat.trinket_gui.desc:25
+key_key.xat.trinket_target.desc:25
+key_key.xat.trinket_toggle_effect.desc:43
+key_key.xat.magnet_toggle_effect.desc:43
+key_key.xat.trinket_arcing_attack.desc:19
+key_key.xat.aux_key.desc:29
+key_key.xat.race_ability.desc:19
 key_vc.key.moveForward:17
 key_vc.key.moveBack:31
 key_vc.key.moveLeft:30
