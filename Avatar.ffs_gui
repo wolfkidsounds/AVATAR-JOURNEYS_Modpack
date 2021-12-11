@@ -41,6 +41,7 @@
             <Item>*\saves\</Item>
             <Item>*\README.md</Item>
             <Item>*\wiki\</Item>
+            <Item>*\.gitignore</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
